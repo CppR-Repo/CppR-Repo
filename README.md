@@ -12,11 +12,8 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### Desarrollo Frontend
-<p align="left">
-  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/>
-  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/>
-</p>
+![HTML5](https://jsdelivr.net) ![CSS3](https://jsdelivr.net) ![JavaScript](https://jsdelivr.net) ![Python](https://jsdelivr.net) ![Django](https://jsdelivr.net) ![SQL](https://jsdelivr.net)
+
 
 
 ![React](https://shields.io)
