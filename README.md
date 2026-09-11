@@ -12,9 +12,12 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### Desarrollo Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+<p align="left">
+  <img src="https://githubusercontent.com" alt="HTML5" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="CSS3" width="40" height="40"/>
+  <img src="https://githubusercontent.com" alt="JavaScript" width="40" height="40"/>
+</p>
+
 
 ![React](https://shields.io)
 
