@@ -12,7 +12,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### Desarrollo Frontend
-<img src="https://shields.io" alt="HTML5 Badge">
+![HTML5](https://badgen.net)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
 ![React](https://shields.io)
