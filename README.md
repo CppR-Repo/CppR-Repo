@@ -12,18 +12,17 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ### Desarrollo Frontend
-![HTML5](https://jsdelivr.net) ![CSS3](https://jsdelivr.net) ![JavaScript](https://jsdelivr.net) ![Python](https://jsdelivr.net) ![Django](https://jsdelivr.net) ![SQL](https://jsdelivr.net)
-
-
-
-![React](https://shields.io)
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&labelColor=black)
+![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=black)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
 
 ### Desarrollo Backend & Automatización
-![Python](https://shields.io)
-![Django](https://shields.io)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=%23092E20&labelColor=black)
 
 ### Análisis de Datos
-![Python](https://shields.io)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)
 
 ---
 
