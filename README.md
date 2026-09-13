@@ -44,7 +44,9 @@
 
 Aquí puedes ver un resumen de mi actividad y lenguajes más utilizados en la plataforma:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CppR-Repo)](https://github.com/anuraghazra/github-readme-stats)
+[![Mis Estadísticas de GitHub](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Mis Lenguajes más Usados](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
