@@ -16,28 +16,30 @@
 ![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23000)
 
-#### Frameworks / Librerías
+#### Frameworks
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=%2341B883&labelColor=%2334495E)
-![Static Badge](https://img.shields.io/badge/Angular.js-b52e31?style=for-the-badge&logo=angular&logoColor=%23b52e31&labelColor=%23000)
+![Static Badge](https://img.shields.io/badge/Angular.js-DD0031?style=for-the-badge&logo=angular&logoColor=%23DD0031&labelColor=%23000)
+
 
 ### Desarrollo Backend & Automatización
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23FFD43B&labelColor=%23306998)
-#### Frameworks
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frameworks / Librerías
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=%23064B35&labelColor=%23000)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=000&labelColor=fff)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Análisis de Datos
 ![Static Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=%23F9AB00&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000)
 
-<p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-</p>
-
 ### 🎨 Diseño de Interfaz (UI/UX)
-<p align="left" >
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
-</p>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=000)
 
 ### Entornos de Desarrollo & Herramientas
 <p align="left">
@@ -65,9 +67,11 @@
 
 Aquí puedes ver un resumen de mi actividad y lenguajes más utilizados en la plataforma:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CppR-Repo)](https://github.com/CppR-Repo/github-readme-stats)
-
-[![Lenguajes más usados de CppR-Repo](https://vercel.app)](https://github.com)
+![](https://github-readme-stats.shion.dev/api?username=CppR-Repo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<br/>
+![](https://streak-stats.demolab.com/?user=CppR-Repo&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=CppR-Repo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -75,5 +79,5 @@ Aquí puedes ver un resumen de mi actividad y lenguajes más utilizados en la pl
 
 Si quieres hablar sobre algún proyecto, oportunidad laboral o simplemente compartir ideas de código, no dudes en contactarme:
 
-- 📧 **Correo electrónico:** [CppR89@gmail.com](mailto:CppR89@gmail.com)
-- 💼 **LinkedIn:** [c-p-p-r](https://www.linkedin.com/in/c-p-p-r/)
+- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:CppR89@gmail.com) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/c-p-p-r)
