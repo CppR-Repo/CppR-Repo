@@ -62,7 +62,7 @@
 - 📊 **[Análisis Comercial (EDA)](https://github.com/CppR-Repo/Analisis_Comercial):** Ingeniería de datos y dashboard de ROI unificando Clientes, Ventas y Marketing. | *Pandas, NumPy, Plotly, Python*
 - 🎲 **[Analítica Quini 6](https://github.com/CppR-Repo/Analisis_Estadistico_Quini6):** Software de ciencia de datos enfocado en patrones combinatorios y frecuencias de sorteos. | *Python, Pandas, Matplotlib*
 - 🏭 **[Monitoreo Industrial](https://github.com/CppR-Repo/Monitoreo-Variables-Industriales):** Automatización de reportes y análisis de variables de presión y temperatura. | *Python, Pandas, NumPy, Matplotlib*
-- **[Galeria Menu Hamburguesa Interactivos](https://github.com/CppR-Repo/ Galeria_Menu_Hamburguesa-Interactivos)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
+- **[Galeria Menu Hamburguesa Interactivos](https://github.com/CppR-Repo/Galeria_Menu_Hamburguesa-Interactivos)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
 
 ---
 
