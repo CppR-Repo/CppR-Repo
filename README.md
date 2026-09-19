@@ -29,14 +29,16 @@
 #### Frameworks / Librerías
 ![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=%23064B35&labelColor=%23000)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=000&labelColor=fff)
+
+
+### Análisis de Datos
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-
-### Análisis de Datos
-![Static Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=%23F9AB00&labelColor=%23000)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000)
+![Static Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google%20colab&logoColor=%23F9AB00&labelColor=%23000)
+
 
 ### 🎨 Diseño de Interfaz (UI/UX)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=000)
