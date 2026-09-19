@@ -54,14 +54,15 @@
 ## 🚀 Proyectos Destacados
 
 ### 🌐 Desarrollo Full Stack & Backend
-* **[Proyecto Tienda Reparacion](https://github.com)**: Sistema de gestión comercial enfocado en optimizar el flujo de trabajo de soporte técnico.
-* **[Monitoreo Variables Industriales](https://github.com)**: Aplicación para el control y seguimiento en tiempo real de métricas e indicadores de producción.
-* **[Sistema Modular Autenticacion](https://github.com)**: Módulo seguro y reutilizable para el control de acceso de usuarios e integración de roles.
-* **[Gestor de Tareas](https://github.com)**: Aplicación interactiva diseñada para la organización personal y la productividad diaria.
+- 🔐 **[Autenticación Premium Modular](https://github.com):** Sistema de login con Django 6, Glassmorphism, validación RegExp y OAuth social. | *Django, JS ES6, CSS3, Python*
+- ⚙️ **[ERP/CRM Tienda de Reparación](https://github.com):** Plataforma unificada de gestión de hardware y tienda modular con IDs UUID. | *Flask, JavaScript, CSS3*
 
 ### 📊 Análisis de Datos & UI
-* **[Analisis Estadistico Quini6](https://github.com)**: Proyecto de ciencia de datos enfocado en el procesamiento analítico y patrones numéricos.
-* **[Galeria Menu Hamburguesa Interactivos](https://github.com)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
+
+- 📊 **[Análisis Comercial (EDA)](https://github.com):** Ingeniería de datos y dashboard de ROI unificando Clientes, Ventas y Marketing. | *Pandas, NumPy, Plotly, Python*
+- 🎲 **[Analítica Quini 6](https://github.com):** Software de ciencia de datos enfocado en patrones combinatorios y frecuencias de sorteos. | *Python, Pandas, Matplotlib*
+- 🏭 **[Monitoreo Industrial](https://github.com):** Automatización de reportes y análisis de variables de presión y temperatura. | *Python, Pandas, NumPy, Matplotlib*
+- **[Galeria Menu Hamburguesa Interactivos](https://github.com)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
 
 ---
 
