@@ -54,15 +54,15 @@
 ## 🚀 Proyectos Destacados
 
 ### 🌐 Desarrollo Full Stack & Backend
-- 🔐 **[Autenticación Premium Modular](https://github.com):** Sistema de login con Django 6, Glassmorphism, validación RegExp y OAuth social. | *Django, JS ES6, CSS3, Python*
-- ⚙️ **[ERP/CRM Tienda de Reparación](https://github.com):** Plataforma unificada de gestión de hardware y tienda modular con IDs UUID. | *Flask, JavaScript, CSS3*
+- 🔐 **[Autenticación Premium Modular](https://github.com/CppR-Repo):** Sistema de login con Django 6, Glassmorphism, validación RegExp y OAuth social. | *Django, JS ES6, CSS3, Python*
+- ⚙️ **[ERP/CRM Tienda de Reparación](https://github.com/CppR-Repo):** Plataforma unificada de gestión de hardware y tienda modular con IDs UUID. | *Flask, JavaScript, CSS3*
 
 ### 📊 Análisis de Datos & UI
 
-- 📊 **[Análisis Comercial (EDA)](https://github.com):** Ingeniería de datos y dashboard de ROI unificando Clientes, Ventas y Marketing. | *Pandas, NumPy, Plotly, Python*
-- 🎲 **[Analítica Quini 6](https://github.com):** Software de ciencia de datos enfocado en patrones combinatorios y frecuencias de sorteos. | *Python, Pandas, Matplotlib*
-- 🏭 **[Monitoreo Industrial](https://github.com):** Automatización de reportes y análisis de variables de presión y temperatura. | *Python, Pandas, NumPy, Matplotlib*
-- **[Galeria Menu Hamburguesa Interactivos](https://github.com)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
+- 📊 **[Análisis Comercial (EDA)](https://github.com/CppR-Repo):** Ingeniería de datos y dashboard de ROI unificando Clientes, Ventas y Marketing. | *Pandas, NumPy, Plotly, Python*
+- 🎲 **[Analítica Quini 6](https://github.com/CppR-Repo):** Software de ciencia de datos enfocado en patrones combinatorios y frecuencias de sorteos. | *Python, Pandas, Matplotlib*
+- 🏭 **[Monitoreo Industrial](https://github.com/CppR-Repo):** Automatización de reportes y análisis de variables de presión y temperatura. | *Python, Pandas, NumPy, Matplotlib*
+- **[Galeria Menu Hamburguesa Interactivos](https://github.com/CppR-Repo)**: Catálogo visual y dinámico especializado en componentes modernos de interfaz de usuario (UI).
 
 ---
 
