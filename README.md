@@ -54,18 +54,19 @@
 ## 🚀 Proyectos Destacados
 
 ### 🌐 Desarrollo Full Stack & Backend
+- 📈 **[Panel Financiero Crypto en Tiempo Real](https://github.com):** Plataforma analítica desacoplada basada en eventos con Django 6 ASGI (Daphne), WebSockets y gráficos dinámicos en React 18. | *Django, React, Pandas, WebSockets*
 - 🔐 **[Autenticación Premium Modular](https://github.com/CppR-Repo/Sistema_Modular_Autenticacion):** Sistema de login con Django 6, Glassmorphism, validación RegExp y OAuth social. | *Django, JS ES6, CSS3, Python*
 - ⚙️ **[ERP/CRM Tienda de Reparación](https://github.com/CppR-Repo/Proyecto_Tienda_Reparacion):** Plataforma unificada de gestión de hardware y tienda modular con IDs UUID. | *Flask, JavaScript, CSS3*
-- 🖼️ **[Convertidor WebP/WebM](https://github.com/Convertidor_a_WebP-y-WebM):** Script de optimización multimedia masiva para rendimiento web y portafolios. | *Python, Automatización*
 - 📝 **[Gestor de Tareas](https://github.com/Gestor_de_Tarea):** App web interactiva con modo oscuro, barra de progreso y persistencia local. | *JavaScript ES6, CSS3, LocalStorage*
 - 🍔 **[Galeria Menu Hamburguesa Interactivos](https://github.com/CppR-Repo/Galeria_Menu_Hamburguesa-Interactivos)**: Componentes modulares con metodología BEM, animaciones 3D y SVG en línea. | *HTML5, CSS3, JS Vanilla, BEM*.
 
 
 
-### 📊 Análisis de Datos
+### 📊 Ingeniería, Ciencia & Análisis de Datos (EDA)
 
 - 📊 **[Análisis Comercial (EDA)](https://github.com/CppR-Repo/Analisis_Comercial):** Ingeniería de datos y dashboard de ROI unificando Clientes, Ventas y Marketing. | *Pandas, NumPy, Plotly, Python*
 - 🎲 **[Analítica Quini 6](https://github.com/CppR-Repo/Analisis_Estadistico_Quini6):** Software de ciencia de datos enfocado en patrones combinatorios y frecuencias de sorteos. | *Python, Pandas, Matplotlib*
+- 🖼️ **[Convertidor WebP/WebM](https://github.com/Convertidor_a_WebP-y-WebM):** Script de optimización multimedia masiva para rendimiento web y portafolios. | *Python, Automatización*
 - 🏭 **[Monitoreo Industrial](https://github.com/CppR-Repo/Monitoreo-Variables-Industriales):** Automatización de reportes y análisis de variables de presión y temperatura. | *Python, Pandas, NumPy, Matplotlib*
 
 ---
