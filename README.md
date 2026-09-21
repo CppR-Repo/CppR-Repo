@@ -54,7 +54,7 @@
 ## 🚀 Proyectos Destacados
 
 ### 🌐 Desarrollo Full Stack & Backend
-- 📈 **[Panel Financiero Crypto en Tiempo Real](https://github.com):** Plataforma analítica desacoplada basada en eventos con Django 6 ASGI (Daphne), WebSockets y gráficos dinámicos en React 18. | *Django, React, Pandas, WebSockets*
+- 📈 **[Panel Financiero Crypto en Tiempo Real](https://github.com/CppR-Repo/Panel_Financiero_Interactivo_Crypto):** Plataforma analítica desacoplada basada en eventos con Django 6 ASGI (Daphne), WebSockets y gráficos dinámicos en React 18. | *Django, React, Pandas, WebSockets*
 - 🔐 **[Autenticación Premium Modular](https://github.com/CppR-Repo/Sistema_Modular_Autenticacion):** Sistema de login con Django 6, Glassmorphism, validación RegExp y OAuth social. | *Django, JS ES6, CSS3, Python*
 - ⚙️ **[ERP/CRM Tienda de Reparación](https://github.com/CppR-Repo/Proyecto_Tienda_Reparacion):** Plataforma unificada de gestión de hardware y tienda modular con IDs UUID. | *Flask, JavaScript, CSS3*
 - 📝 **[Gestor de Tareas](https://github.com/Gestor_de_Tarea):** App web interactiva con modo oscuro, barra de progreso y persistencia local. | *JavaScript ES6, CSS3, LocalStorage*
